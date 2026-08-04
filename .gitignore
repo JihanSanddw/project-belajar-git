@@ -1,0 +1,8 @@
+# mengabaikan folder yang akan di upload ke github.
+projectOne
+
+# mengabaikan file yang akan di upload ke github.
+text.log
+
+# mengabaikan file dengan ekstensi tertentu
+*.py
